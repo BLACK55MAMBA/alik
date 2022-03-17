@@ -1,0 +1,6 @@
+name = input("ваши фамилия,имя?")
+year = input("дата рождения?")
+learning = input("где вы учитесь?")
+print("ваши фамилия,имя?",name)
+print("дата рождения?" + str(year))
+print("где вы учитесь?",learning)
